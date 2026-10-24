@@ -1,62 +1,46 @@
-# ✈️ Spendly Travel
-
-### Planea el viaje. Cuida tu presupuesto. Disfruta el camino.
-
-Spendly Travel es una app para iPhone que reúne la planeación del viaje y el control de gastos en un solo lugar. Define un presupuesto, organiza gastos por categoría y revisa cuánto llevas mientras viajas.
-
-<p align="center">
-  <img src="TravelSpend/Assets.xcassets/AppIcon.appiconset/AppIcon1024x1024.png" alt="Icono de Spendly Travel" width="160">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-UI-orange?logo=swift" alt="Swift">
-  <img src="https://img.shields.io/badge/iOS-17.6%2B-000000?logo=apple" alt="iOS 17.6+">
-  <img src="https://img.shields.io/badge/License-MIT-2ea44f.svg" alt="Licencia MIT">
-  <img src="https://img.shields.io/badge/Idiomas-Espa%C3%B1ol%20%7C%20English-blue" alt="Español e inglés">
-</p>
+<div align="center">
+  <img src="TravelSpend/Assets.xcassets/AppIcon.appiconset/AppIcon1024x1024.png" alt="Spendly Travel" width="148">
+  <h1>✈️ Spendly Travel</h1>
+  <p><strong>Planea el viaje. Cuida tu presupuesto. Disfruta el camino.</strong></p>
+  <p>Una app para organizar viajes y llevar el control de gastos desde el iPhone.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Swift-SwiftUI-orange?logo=swift" alt="SwiftUI">
+    <img src="https://img.shields.io/badge/iOS-17.6%2B-111111?logo=apple" alt="iOS 17.6+">
+    <img src="https://img.shields.io/badge/Idiomas-Espa%C3%B1ol%20%7C%20English-blue" alt="Español e inglés">
+    <img src="https://img.shields.io/badge/Licencia-MIT-2ea44f" alt="Licencia MIT">
+  </p>
+</div>
 
 ---
 
-## Contenido
-
-- [Funciones](#funciones)
-- [Tecnologías](#tecnologías)
-- [Abrir el proyecto](#abrir-el-proyecto)
-- [Privacidad](#privacidad)
-- [Licencia](#licencia)
-- [Autor](#autor)
-
 ## Funciones
 
-- Crea viajes y define un presupuesto general.
-- Registra gastos y consulta los totales por categoría.
-- Lleva importes en distintas monedas y consulta su conversión.
-- Exporta los gastos a CSV.
-- Prueba la experiencia con datos de demostración.
-- Usa la app en español o inglés.
+| Planifica | Controla |
+|:--|:--|
+| **Viajes y presupuestos**<br>Define un presupuesto general para cada viaje. | **Gastos por categoría**<br>Registra gastos y consulta totales y saldos. |
+| **Monedas**<br>Guarda el importe original y su conversión. | **Exportación CSV**<br>Descarga el detalle de gastos para revisarlo. |
+| **Modo de demostración**<br>Explora la app con datos de ejemplo. | **Español e inglés**<br>Interfaz localizada en ambos idiomas. |
 
 ## Tecnologías
 
-- Swift y SwiftUI
-- Xcode
-- iOS 17.6 o posterior
+**Swift · SwiftUI · Xcode · iOS 17.6+**
 
 ## Abrir el proyecto
 
-1. Descarga o clona este repositorio.
+1. Clona o descarga el repositorio.
 2. Abre `TravelSpend.xcodeproj` en Xcode.
-3. Selecciona el equipo de firma de tu cuenta Apple en **Signing & Capabilities**.
-4. Elige un simulador o iPhone compatible y ejecuta el esquema `TravelSpend`.
+3. En **Signing & Capabilities**, selecciona tu equipo de firma.
+4. Ejecuta el esquema `TravelSpend` en un simulador o iPhone compatible.
 
-El identificador de equipo de firma se ha omitido del proyecto publicado. Xcode te pedirá seleccionar tu propio equipo si vas a instalar la app en un dispositivo.
+El identificador del equipo de firma original se retiró del proyecto; Xcode usará el equipo que selecciones.
 
-## Privacidad
+## Revisión de privacidad
 
-El repositorio no incluye historiales Git locales, respaldos, capturas, preferencias de usuario de Xcode ni identificadores de equipo de firma. La app está pensada para gestionar la información del viaje en el dispositivo; revisa el código y la configuración de la versión que compiles antes de introducir información personal.
+Se revisaron los archivos incluidos para detectar credenciales y datos de configuración. Se retiró el identificador de equipo Apple y se excluyeron los respaldos, preferencias personales de Xcode, capturas y el historial Git local. Esta revisión estática no sustituye una auditoría de comportamiento en ejecución.
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia MIT. Consulta [LICENSE](LICENSE).
+Distribuido bajo la licencia [MIT](LICENSE), a nombre de **SEBASTIAN ALBERTO CLARK VALENZUELA**.
 
 ## Autor
 
