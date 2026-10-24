@@ -1,0 +1,9 @@
+.DS_Store
+DerivedData/
+build/
+*.xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+BACKUP */
+Simulator Screenshot - *.png

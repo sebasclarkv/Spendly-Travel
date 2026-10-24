@@ -1,0 +1,234 @@
+"a11y.add_activity" = "Añadir actividad";
+"a11y.add_expense" = "Añadir gasto";
+"a11y.convert_currency" = "Abrir convertidor";
+"a11y.more_options" = "Más opciones";
+"a11y.new_trip" = "Nuevo viaje";
+
+"action.cancel" = "Cancelar";
+"action.delete" = "Eliminar";
+"action.done" = "Listo";
+"action.save" = "Guardar";
+
+"app.name" = "Spendly Travel";
+
+"budget_plan.assigned" = "Asignado";
+"budget_plan.categories" = "Categorías";
+"budget_plan.help" = "Define límites por categoría que se ajusten a tu presupuesto del viaje.";
+"budget_plan.no_limit" = "Sin límite";
+"budget_plan.remaining" = "Restante";
+"budget_plan.title" = "Plan por categoría";
+"budget_plan.total" = "Presupuesto total";
+"budget_plan.validation" = "El total asignado no puede superar el presupuesto.";
+
+"budget_status.on_track_detail" = "Vas dentro del presupuesto previsto.";
+"budget_status.on_track_title" = "Bajo control";
+"budget_status.over_budget_detail" = "Has rebasado el presupuesto.";
+"budget_status.over_budget_title" = "Sobre el presupuesto";
+"budget_status.spending_fast_detail" = "Tu ritmo actual es alto y podrías pasarte del presupuesto.";
+"budget_status.spending_fast_title" = "Gasto acelerado";
+
+"category.emergency" = "Emergencia";
+"category.entertainment" = "Entretenimiento";
+"category.flights" = "Vuelos";
+"category.food" = "Comida";
+"category.lodging" = "Alojamiento";
+"category.other" = "Otros";
+"category.shopping" = "Compras";
+"category.transportation" = "Transporte";
+
+"category_chart.empty" = "Aún no hay gastos";
+"category_chart.empty_desc" = "Agrega gastos para visualizar el desglose por categoría.";
+"category_chart.total_label" = "Total gastado";
+
+"chart.amount" = "Importe";
+
+"converter.amount" = "Importe";
+"converter.footer" = "Las tasas se consultan desde una fuente segura y se usan en esta sesión.";
+"converter.from" = "Desde";
+"converter.invalid_amount" = "Introduce un importe válido.";
+"converter.loading_rate" = "Cargando tasa de cambio...";
+"converter.provider" = "Datos de ExchangeRate-API";
+"converter.rate_header" = "Tasa de cambio";
+"converter.refresh" = "Actualizar tasa";
+"converter.request_failed" = "No se pudo cargar la tasa de cambio. Inténtalo de nuevo.";
+"converter.result" = "Resultado";
+"converter.retry" = "Reintentar";
+"converter.section_title" = "Conversor de moneda";
+"converter.swap" = "Intercambiar monedas";
+"converter.to" = "Hacia";
+"converter.updated_at" = "Actualizado";
+"converter.will_receive" = "Recibirás";
+
+"exchange_rate.footer" = "Ajusta las tasas de cambio usadas en este viaje. Se aplican al presupuesto y a los gastos.";
+"exchange_rate.rate" = "Tasa";
+"exchange_rate.section_title" = "Tasas de cambio";
+"exchange_rate.title" = "Tasas del viaje";
+
+"expense_editor.add_title" = "Agregar gasto";
+"expense_editor.category" = "Categoría";
+"expense_editor.converted_to" = "Convertido a %@";
+"expense_editor.date" = "Fecha";
+"expense_editor.delete.message" = "Este gasto se eliminará del viaje.";
+"expense_editor.delete.title" = "Eliminar gasto";
+"expense_editor.delete_expense" = "Eliminar gasto";
+"expense_editor.edit_title" = "Editar gasto";
+"expense_editor.notes" = "Notas";
+"expense_editor.notes_placeholder" = "Añade notas (opcional)";
+"expense_editor.original_amount" = "Importe";
+"expense_editor.original_currency" = "Moneda original";
+"expense_editor.payment_method" = "Método de pago";
+"expense_editor.save_changes" = "Guardar cambios";
+"expense_editor.save_expense" = "Guardar gasto";
+"expense_editor.section_title" = "Detalles del gasto";
+"expense_editor.title_hint" = "Título del gasto";
+
+"expense_row.original_suffix" = "Importe original: %@";
+
+"expense_sort.category" = "Por categoría";
+"expense_sort.highest_amount" = "Mayor importe";
+"expense_sort.newest" = "Más recientes";
+
+"expenses.empty_hint" = "Pulsa + para agregar tu primer gasto.";
+"expenses.empty_title" = "Sin gastos aún";
+
+"home.empty_create_trip" = "Crear viaje";
+"home.empty_load_example" = "Cargar viaje de ejemplo";
+"home.empty_subtitle" = "Controla gastos de viaje por moneda, categorías y presupuesto en un solo lugar.";
+"home.empty_title" = "Aún no hay viajes";
+"home.section_active_trips" = "Viajes activos";
+"home.section_closed_trips" = "Viajes cerrados";
+"home.section_tools" = "Herramientas";
+
+"itinerary.empty" = "Sin itinerario aún";
+"itinerary.empty_desc" = "Agrega actividades para planear tu programación de viaje.";
+"itinerary.footer" = "Crea tu plan de viaje y marca las actividades como completadas.";
+"itinerary.section_title" = "Itinerario";
+"itinerary.title" = "Itinerario";
+
+"itinerary_editor.add_title" = "Agregar actividad";
+"itinerary_editor.completed" = "Completada";
+"itinerary_editor.edit_title" = "Editar actividad";
+"itinerary_editor.end" = "Fin";
+"itinerary_editor.location" = "Lugar";
+"itinerary_editor.notes" = "Notas";
+"itinerary_editor.notes_placeholder" = "Detalles (opcional)";
+"itinerary_editor.save_activity" = "Guardar actividad";
+"itinerary_editor.save_changes" = "Guardar cambios";
+"itinerary_editor.section_title" = "Detalles de actividad";
+"itinerary_editor.start" = "Inicio";
+"itinerary_editor.title" = "Título";
+
+"payment.bank_transfer" = "Transferencia bancaria";
+"payment.cash" = "Efectivo";
+"payment.credit_card" = "Tarjeta de crédito";
+"payment.debit_card" = "Tarjeta de débito";
+"payment.digital_wallet" = "Billetera digital";
+"payment.other" = "Otro";
+
+"summary.available" = "Disponible";
+"summary.average_daily" = "Promedio diario";
+"summary.export_text" = "Texto exportable";
+"summary.most_expensive_day" = "Día más caro";
+"summary.section_title" = "Resumen";
+"summary.share_csv" = "Exportar CSV";
+"summary.share_section" = "Compartir y exportar";
+"summary.share_text" = "Compartir reporte";
+"summary.status" = "Estado";
+"summary.title" = "Resumen";
+"summary.top_category" = "Categoría principal";
+"summary.total_spent" = "Total gastado";
+
+"tool.convert_currency" = "Convertidor";
+
+"trip.clear_category_filter" = "Quitar filtro de categoría";
+"trip.days_remaining" = "Días restantes: %lld";
+"trip.delete.message" = "¿Quieres eliminar este viaje y todos sus datos?";
+"trip.delete.title" = "Eliminar viaje";
+"trip.example.destination" = "Fin de semana en Lisboa";
+"trip.example.expense.airport_train" = "Tranvía de ida al aeropuerto";
+"trip.example.expense.city_hotel" = "Hotel céntrico";
+"trip.example.expense.dinner_alfama" = "Cena en Alfama";
+"trip.example.expense.gifts" = "Regalos";
+"trip.example.expense.hotel_reservation" = "Reserva de hotel";
+"trip.example.expense.medicines" = "Medicinas";
+"trip.example.expense.museum_view" = "Visita al museo";
+"trip.example.expense.round_trip" = "Boleto de ida y vuelta";
+"trip.example.itinerary.checkin" = "Check-in del hotel";
+"trip.example.itinerary.dinner" = "Reserva de cena";
+"trip.example.itinerary.free_time" = "Tarde libre";
+"trip.example.itinerary.museum" = "Museo";
+"trip.example.itinerary.reserve_note" = "Reserva de mesa a las 19:00";
+"trip.filter_by_date" = "Filtrar por fecha";
+"trip.filter_category" = "Categoría";
+"trip.filter_category_all" = "Todas las categorías";
+"trip.filter_date_from" = "Desde";
+"trip.filter_date_to" = "Hasta";
+"trip.filter_sort" = "Ordenar";
+"trip.info_currency" = "Moneda";
+"trip.info_end" = "Fecha de fin";
+"trip.info_expenses_count" = "Gastos";
+"trip.info_start" = "Fecha de inicio";
+"trip.itinerary.empty" = "Sin actividades programadas";
+"trip.itinerary.empty_desc" = "Usa el planificador para agregar paradas del viaje.";
+"trip.itinerary.view_all" = "Ver todas las actividades";
+"trip.menu.advanced_summary" = "Resumen avanzado";
+"trip.menu.close_trip" = "Cerrar viaje";
+"trip.menu.delete_trip" = "Eliminar viaje";
+"trip.menu.edit_trip" = "Editar viaje";
+"trip.menu.export_csv" = "Exportar CSV";
+"trip.menu.reopen_trip" = "Reabrir viaje";
+"trip.menu.share_summary" = "Compartir resumen";
+"trip.no_results" = "Sin resultados";
+"trip.no_results_desc" = "Prueba otro texto, rango de fecha o categoría.";
+"trip.not_found" = "Viaje no encontrado";
+"trip.percent_used" = "Usado: %lld%%";
+"trip.search_placeholder" = "Buscar gasto";
+"trip.section_filtered_expenses" = "Gastos";
+"trip.section_info" = "Detalles del viaje";
+"trip.section_search_filter" = "Búsqueda y filtros";
+"trip.section_spending_by_category" = "Gasto por categoría";
+"trip.section_tools" = "Opciones del viaje";
+"trip.section_upcoming_itinerary" = "Próximas actividades";
+"trip.share.message" = "Aquí tienes el reporte de tu viaje.";
+"trip.share.subject" = "Resumen de viaje: %@";
+"trip.title" = "Viaje";
+"trip.tools.exchange_rates" = "Tasas de cambio";
+"trip.tools.itinerary" = "Itinerario";
+"trip.tools.plan_by_category" = "Plan por categorías";
+"trip.tools.summary_export" = "Resumen y exportación";
+
+"trip_csv.header" = "Fecha,Título,Categoría,Método de pago,Importe original,Moneda original,Importe convertido,Moneda del viaje,Nota";
+
+"trip_editor.add_title" = "Nuevo viaje";
+"trip_editor.base_currency" = "Moneda base";
+"trip_editor.base_currency_locked" = "No puedes cambiar la moneda base cuando hay gastos registrados.";
+"trip_editor.budget" = "Presupuesto";
+"trip_editor.destination" = "Destino";
+"trip_editor.edit_title" = "Editar viaje";
+"trip_editor.end_date" = "Fecha de fin";
+"trip_editor.save_changes" = "Guardar cambios";
+"trip_editor.save_trip" = "Guardar viaje";
+"trip_editor.section_data" = "Datos del viaje";
+"trip_editor.section_dates" = "Fechas";
+"trip_editor.start_date" = "Fecha de inicio";
+
+"trip_metric.average_daily" = "Promedio diario";
+"trip_metric.budget" = "Presupuesto";
+"trip_metric.days_remaining" = "Días restantes";
+"trip_metric.recommended_daily" = "Recomendación diaria";
+"trip_metric.spent" = "Gastado";
+"trip_metric.used" = "Usado";
+
+"trip_share.average_daily" = "Promedio diario: %@";
+"trip_share.budget" = "Presupuesto: %@";
+"trip_share.daily_recommendation" = "Sugerencia diaria: %@";
+"trip_share.days_remaining" = "Días restantes: %lld";
+"trip_share.expenses_by_category" = "Gastos por categoría";
+"trip_share.header" = "%@ · %@";
+"trip_share.itinerary" = "Itinerario";
+"trip_share.remaining" = "Disponible: %@";
+"trip_share.spent" = "Gastado: %@";
+"trip_share.status" = "Estado: %@";
+"trip_share.top_category" = "Categoría principal: %@ (%@)";
+"trip_share.used_percent" = "Presupuesto usado: %@%%";
+"trip_share.category_line" = "%@ · %@ (%@%%)";
