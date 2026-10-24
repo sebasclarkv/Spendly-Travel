@@ -1,47 +1,53 @@
 <div align="center">
-  <img src="TravelSpend/Assets.xcassets/AppIcon.appiconset/AppIcon1024x1024.png" alt="Spendly Travel" width="148">
+  <img src="TravelSpend/Assets.xcassets/AppIcon.appiconset/AppIcon1024x1024.png" alt="Spendly Travel app icon" width="148">
   <h1>✈️ Spendly Travel</h1>
-  <p><strong>Planea el viaje. Cuida tu presupuesto. Disfruta el camino.</strong></p>
-  <p>Una app para organizar viajes y llevar el control de gastos desde el iPhone.</p>
+  <p><strong>Plan the trip. Keep spending on track.</strong></p>
+  <p>An iPhone travel planner and expense tracker for setting trip budgets, logging expenses, and reviewing your spending as you go.</p>
   <p>
     <img src="https://img.shields.io/badge/Swift-SwiftUI-orange?logo=swift" alt="SwiftUI">
     <img src="https://img.shields.io/badge/iOS-17.6%2B-111111?logo=apple" alt="iOS 17.6+">
-    <img src="https://img.shields.io/badge/Idiomas-Espa%C3%B1ol%20%7C%20English-blue" alt="Español e inglés">
-    <img src="https://img.shields.io/badge/Licencia-MIT-2ea44f" alt="Licencia MIT">
+    <img src="https://img.shields.io/badge/Languages-English%20%7C%20Spanish-blue" alt="English and Spanish">
+    <img src="https://img.shields.io/badge/License-MIT-2ea44f" alt="MIT License">
   </p>
 </div>
 
 ---
 
-## Funciones
+## Features
 
-| Planifica | Controla |
+| Plan your trip | Track your spending |
 |:--|:--|
-| **Viajes y presupuestos**<br>Define un presupuesto general para cada viaje. | **Gastos por categoría**<br>Registra gastos y consulta totales y saldos. |
-| **Monedas**<br>Guarda el importe original y su conversión. | **Exportación CSV**<br>Descarga el detalle de gastos para revisarlo. |
-| **Modo de demostración**<br>Explora la app con datos de ejemplo. | **Español e inglés**<br>Interfaz localizada en ambos idiomas. |
+| **Trips and budgets**<br>Set an overall budget for each trip. | **Expenses by category**<br>Log expenses and review totals and balances. |
+| **Multiple currencies**<br>Keep the original amount alongside its conversion. | **CSV export**<br>Export expense details for further review. |
+| **Demo mode**<br>Explore the app with sample data. | **English and Spanish**<br>Use the localized interface in either language. |
 
-## Tecnologías
+## Tech stack
 
 **Swift · SwiftUI · Xcode · iOS 17.6+**
 
-## Abrir el proyecto
+## Get started
 
-1. Clona o descarga el repositorio.
-2. Abre `TravelSpend.xcodeproj` en Xcode.
-3. En **Signing & Capabilities**, selecciona tu equipo de firma.
-4. Ejecuta el esquema `TravelSpend` en un simulador o iPhone compatible.
+1. Clone or download this repository.
+2. Open `TravelSpend.xcodeproj` in Xcode.
+3. Select your Apple development team under **Signing & Capabilities**.
+4. Run the `TravelSpend` scheme on a compatible simulator or iPhone.
 
-El identificador del equipo de firma original se retiró del proyecto; Xcode usará el equipo que selecciones.
+The original Apple team identifier was removed. Xcode will use the team you select.
 
-## Revisión de privacidad
+## Privacy review
 
-Se revisaron los archivos incluidos para detectar credenciales y datos de configuración. Se retiró el identificador de equipo Apple y se excluyeron los respaldos, preferencias personales de Xcode, capturas y el historial Git local. Esta revisión estática no sustituye una auditoría de comportamiento en ejecución.
+The included files were reviewed for credentials and configuration data. The Apple team identifier was removed; backups, personal Xcode settings, screenshots, and the local Git history were excluded. This static review does not replace testing the app's runtime behavior.
 
-## Licencia
+## License
 
-Distribuido bajo la licencia [MIT](LICENSE), a nombre de **SEBASTIAN ALBERTO CLARK VALENZUELA**.
+Released under the [MIT License](LICENSE), copyright **SEBASTIAN ALBERTO CLARK VALENZUELA**.
 
-## Autor
+## Author
 
 **Sebastián Alberto Clark Valenzuela** · [GitHub](https://github.com/sebasclarkv)
+
+## Search keywords
+
+`travel planner` · `travel expense tracker` · `travel budget app` · `trip planner` · `vacation budget` · `expense tracker` · `multi-currency` · `CSV export` · `iOS app` · `SwiftUI` · `Swift` · `personal finance`
+
+Suggested GitHub topics: `swiftui` · `ios-app` · `travel-app` · `expense-tracker` · `travel-budget` · `trip-planner` · `personal-finance` · `csv-export` · `multi-currency`
